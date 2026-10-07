@@ -260,21 +260,3 @@ If the dataset is stored in the same project folder, update the path accordingly
 pd.read_excel('premiums (1).xlsx')
 ```
 
-## Important Notes
-
-- The notebook was developed in Google Colab.
-- The dataset path in the original notebook is Colab-specific and may need to be changed when running locally or from GitHub.
-- Model performance depends on the dataset and preprocessing used in the notebook.
-- The notebook contains exploratory analysis, preprocessing, model comparison, hyperparameter tuning, and error analysis.
-
-## Author
-
-**Aswathy**
-
-B.Sc. Computer Science | Data Science & AI
-
-Interested in Data Analytics, Data Science, Machine Learning, and AI.
-
----
-
-⭐ If you found this project useful, consider giving the repository a star.
